@@ -1,2 +1,2 @@
 # simple_RAG
-Simple example of Retrieval Augmented Generation code on personal pdf documents using Langchain and huggingFace
+Simple example of Retrieval Augmented Generation code on personal pdf documents using Langchain and huggingFace. "documents" folder is a local folder at the root of the project with the pdf files that constitute the database for that helps give more context to the LLM
